@@ -1,4 +1,4 @@
-# coletatwitters_MapReduce_MongoDB
+# coletatwitters_MongoDB
 Coleta dados do twitter e armazena no MongoDB utilizando Python.
 
 Para coletar os dados no twitter precisa cadastra no twitter API para gerar as chaves.
